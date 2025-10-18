@@ -2,7 +2,7 @@
   <a href="https://guns.lol/dooms" target="_blank">
     <img alt="dooms"
          src="guns.webp"
-         style="width: 64px; height: 64px;" />
+         style="width: 32px; height: 32px;" />
   </a>
 </p>
 
