@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://guns.lol/dooms" target="_blank">
     <img alt="dooms"
-         src="guns.webp" />
+         src="guns.webp"
+         style="width: 64px; height: 64px;" />
   </a>
 </p>
 
