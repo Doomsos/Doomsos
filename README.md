@@ -7,7 +7,7 @@
 <h1 align="center">dooms</h1>
 
 <p align="center">
-  <sub>developer · builder · probably debugging something</sub>
+  <sub>d1 skid</sub>
 </p>
 
 <p align="center">
@@ -43,10 +43,4 @@
   <a href="https://github.com/Doomsos?tab=stars">
     <img src="https://img.shields.io/badge/stars-view-888888?style=flat-square" alt="Stars" />
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  <i>building things that probably didn't need to be built</i>
 </p>
